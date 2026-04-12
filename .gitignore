@@ -1,0 +1,5 @@
+.vscode/
+AppData/
+__pycache__/
+*.pyc
+.env
