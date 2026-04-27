@@ -25,6 +25,23 @@ This project uses ML models to classify iris flowers into three species:
 - Matplotlib
 - Seaborn
 
+## 🎥 Demo
+
+### 📈 Visualization
+![Graph](images/graph.png)
+
+### 📊 Confusion Matrix (Decision Tree)
+![DT](images/Decision Tree_confusion.png)
+
+### 📊 Confusion Matrix (KNN)
+![KNN](images/KNN_confusion.png)
+
+### 📊 Confusion Matrix (SVM)
+![SVM](images/SVM_confusion.png)
+
+### 🔮 Prediction Output
+![Prediction](images/prediction.png)
+
 ## 🚀 How to Run
 ```bash
 python iris_data_set5.py
