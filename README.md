@@ -31,7 +31,7 @@ This project uses ML models to classify iris flowers into three species:
 ![Graph](images/graph.png)
 
 ### 📊 Confusion Matrix (Decision Tree)
-![DT](images/Decision Tree_confusion.png)
+![Decision Tree](images/dt_confusion.png)
 
 ### 📊 Confusion Matrix (KNN)
 ![KNN](images/KNN_confusion.png)
